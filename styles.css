@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+
+}
+
+div#main {
+  max-width: 780pix
+  margin: 0 auto;
+}
